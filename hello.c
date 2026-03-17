@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-printf("hello futer Ai PLATFORM engineer abdarrahman \n");
+printf("Helle futuer engineer \n");
 return 0;
 }
